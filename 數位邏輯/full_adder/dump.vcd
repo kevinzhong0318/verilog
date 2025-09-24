@@ -1,0 +1,283 @@
+$date
+	Tue Jan 24 22:58:03 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module t_Prob_6_54 $end
+$var wire 4 ! SR_A [3:0] $end
+$var reg 1 " CLK $end
+$var reg 1 # Clear_b $end
+$var reg 1 $ SI $end
+$var reg 1 % Shift_control $end
+$scope module M0 $end
+$var wire 1 " CLK $end
+$var wire 1 # Clear_b $end
+$var wire 1 & J_in $end
+$var wire 1 ' K_in $end
+$var wire 1 ( S $end
+$var wire 1 $ SI $end
+$var wire 1 ) SI_A $end
+$var wire 1 * SI_B $end
+$var wire 1 % Shift_control $end
+$var wire 1 + clk_to_JKFF $end
+$var wire 1 , SO_B $end
+$var wire 1 - SO_A $end
+$var wire 1 . Q $end
+$var reg 4 / SR_A [3:0] $end
+$var reg 4 0 SR_B [3:0] $end
+$scope module M1 $end
+$var wire 1 + C $end
+$var wire 1 # Clear_b $end
+$var wire 1 & J_in $end
+$var wire 1 ' K_in $end
+$var reg 1 . Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx 0
+bx /
+x.
+x-
+x,
+0+
+0*
+x)
+x(
+x'
+x&
+x%
+0$
+0#
+0"
+bx !
+$end
+#5
+1'
+0&
+0)
+0(
+0-
+0,
+0.
+b0 !
+b0 /
+b0 0
+x+
+1"
+#10
+0+
+0"
+#15
+x+
+1"
+#20
+0+
+0"
+1#
+#25
+x+
+1"
+#30
+0+
+0"
+#35
+x+
+1"
+#40
+0+
+0"
+0%
+#45
+1"
+#50
+0"
+#55
+1"
+#60
+0"
+#65
+1"
+#70
+0"
+#75
+1"
+#80
+0"
+#85
+1"
+#90
+0"
+#95
+1"
+#100
+0"
+1*
+1$
+#105
+1"
+#110
+0"
+#115
+1"
+#120
+0"
+#125
+1"
+#130
+0"
+#135
+1"
+#140
+0"
+#145
+b1000 0
+1+
+1"
+1%
+#150
+0+
+0"
+#155
+b1100 0
+1+
+1"
+#160
+0+
+0"
+#165
+b1110 0
+1+
+1"
+#170
+0+
+0"
+#175
+1)
+1(
+0'
+1,
+b1111 0
+1+
+1"
+#180
+0+
+0"
+#185
+b1000 !
+b1000 /
+1+
+1"
+#190
+0+
+0"
+#195
+b1100 !
+b1100 /
+1+
+1"
+#200
+0+
+0"
+#205
+b1110 !
+b1110 /
+1+
+1"
+#210
+0+
+0"
+#215
+0)
+0(
+1&
+1-
+b1111 !
+b1111 /
+1+
+1"
+#220
+0+
+0"
+#225
+1"
+0%
+#230
+0"
+#235
+1"
+#240
+0"
+#245
+1"
+#250
+0"
+#255
+1"
+#260
+0"
+#265
+1"
+#270
+0"
+#275
+1"
+#280
+0"
+#285
+1"
+#290
+0"
+#295
+1"
+#300
+0"
+#305
+1"
+#310
+0"
+#315
+1"
+#320
+0"
+#325
+1"
+#330
+0"
+#335
+1"
+#340
+0"
+#345
+1"
+#350
+0"
+#355
+1"
+#360
+0"
+#365
+1"
+#370
+0"
+#375
+1"
+#380
+0"
+#385
+1"
+#390
+0"
+#395
+1"
+#400
+0"

@@ -1,0 +1,126 @@
+$date
+	Thu Jan 26 03:17:21 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_Problem5_60 $end
+$var reg 1 ! t_Clock $end
+$var reg 1 " t_Count $end
+$var reg 1 # t_Reset $end
+$scope module M0 $end
+$var wire 1 ! Clock $end
+$var wire 1 " Count $end
+$var wire 1 # Reset $end
+$var reg 4 $ state [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 $
+0#
+1"
+0!
+$end
+#5
+1!
+#10
+0!
+#15
+1!
+#20
+0!
+#25
+1!
+#30
+0!
+0"
+#35
+1!
+#40
+0!
+1#
+#45
+1!
+#50
+0!
+1"
+#55
+b1 $
+1!
+#60
+0!
+#65
+b10 $
+1!
+#70
+0!
+#75
+b11 $
+1!
+#80
+b0 $
+0!
+0#
+#85
+1!
+#90
+0!
+#95
+1!
+#100
+0!
+0"
+#105
+1!
+#110
+0!
+#115
+1!
+#120
+0!
+1#
+#125
+1!
+#130
+0!
+1"
+#135
+b1 $
+1!
+#140
+0!
+#145
+b10 $
+1!
+#150
+0!
+#155
+b11 $
+1!
+#160
+0!
+#165
+b100 $
+1!
+#170
+0!
+#175
+b101 $
+1!
+#180
+0!
+#185
+b110 $
+1!
+#190
+0!
+#195
+b111 $
+1!
+#200
+0!

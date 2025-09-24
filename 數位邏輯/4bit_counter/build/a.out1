@@ -1,0 +1,43 @@
+**** module/scope: t_Problem_6_58a
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: t_Problem_6_58a.M0
+     Flip-Flops   : 0
+     Logic Gates  : 26
+**** module/scope: t_Problem_6_58a.M0.M0
+     Flip-Flops   : 1
+     Logic Gates  : 4
+     MUX[2]: 1 slices
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: t_Problem_6_58a.M0.M1
+     Flip-Flops   : 1
+     Logic Gates  : 4
+     MUX[2]: 1 slices
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: t_Problem_6_58a.M0.M2
+     Flip-Flops   : 1
+     Logic Gates  : 4
+     MUX[2]: 1 slices
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: t_Problem_6_58a.M0.M3
+     Flip-Flops   : 1
+     Logic Gates  : 4
+     MUX[2]: 1 slices
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** TOTALS
+     Flip-Flops   : 4
+     Logic Gates  : 42
+     MUX[2]: 4 slices
+     LPM[5]: 4 unaccounted
+     LOG[13]: 5 unaccounted
+     LOG[14]: 5 unaccounted

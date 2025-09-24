@@ -1,0 +1,13 @@
+**** module/scope: lab1_vlg_vec_tst
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: lab1_vlg_vec_tst.i1
+     Flip-Flops   : 0
+     Logic Gates  : 3
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 3
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted

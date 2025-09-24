@@ -1,0 +1,320 @@
+$date
+	Tue Jan 24 22:58:47 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 4 ! A [3:0] $end
+$var reg 1 " clk $end
+$var reg 1 # reset_b $end
+$scope module M0 $end
+$var wire 1 " clk $end
+$var wire 1 # reset_b $end
+$var wire 1 $ A3 $end
+$var wire 1 % A2 $end
+$var wire 1 & A1 $end
+$var wire 1 ' A0 $end
+$scope module M4 $end
+$var wire 1 ( T $end
+$var wire 1 " clk $end
+$var wire 1 # reset_b $end
+$var reg 1 ' Q $end
+$upscope $end
+$scope module M5 $end
+$var wire 1 ) T $end
+$var wire 1 * clk $end
+$var wire 1 # reset_b $end
+$var reg 1 & Q $end
+$upscope $end
+$scope module M6 $end
+$var wire 1 + T $end
+$var wire 1 , clk $end
+$var wire 1 # reset_b $end
+$var reg 1 % Q $end
+$upscope $end
+$scope module M7 $end
+$var wire 1 - T $end
+$var wire 1 . clk $end
+$var wire 1 # reset_b $end
+$var reg 1 $ Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1.
+1-
+1,
+1+
+1*
+1)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+b0 !
+$end
+#5
+1"
+#10
+0"
+1#
+#15
+0*
+b1 !
+1'
+1"
+#20
+0"
+#25
+0,
+1&
+1*
+b10 !
+0'
+1"
+#30
+0"
+#35
+0*
+b11 !
+1'
+1"
+#40
+0"
+#45
+0.
+1%
+1,
+0&
+1*
+b100 !
+0'
+1"
+#50
+0"
+#55
+0*
+b101 !
+1'
+1"
+#60
+0"
+#65
+0,
+1&
+1*
+b110 !
+0'
+1"
+#70
+0"
+#75
+0*
+b111 !
+1'
+1"
+#80
+0"
+#85
+1$
+1.
+0%
+1,
+0&
+1*
+b1000 !
+0'
+1"
+#90
+0"
+#95
+0*
+b1001 !
+1'
+1"
+#100
+0"
+#105
+0,
+1&
+1*
+b1010 !
+0'
+1"
+#110
+0"
+#115
+0*
+b1011 !
+1'
+1"
+#120
+0"
+#125
+0.
+1%
+1,
+0&
+1*
+b1100 !
+0'
+1"
+#130
+0"
+#135
+0*
+b1101 !
+1'
+1"
+#140
+0"
+#145
+0,
+1&
+1*
+b1110 !
+0'
+1"
+#150
+0"
+#155
+0*
+b1111 !
+1'
+1"
+#160
+0"
+#165
+0$
+1.
+0%
+1,
+0&
+1*
+b0 !
+0'
+1"
+#170
+0"
+#175
+0*
+b1 !
+1'
+1"
+#180
+0"
+#185
+0,
+1&
+1*
+b10 !
+0'
+1"
+#190
+0"
+#195
+0*
+b11 !
+1'
+1"
+#200
+0"
+#205
+0.
+1%
+1,
+0&
+1*
+b100 !
+0'
+1"
+#210
+0"
+#215
+0*
+b101 !
+1'
+1"
+#220
+0"
+#225
+0,
+1&
+1*
+b110 !
+0'
+1"
+#230
+0"
+#235
+0*
+b111 !
+1'
+1"
+#240
+0"
+#245
+1$
+1.
+0%
+1,
+0&
+1*
+b1000 !
+0'
+1"
+#250
+0"
+#255
+0*
+b1001 !
+1'
+1"
+#260
+0"
+#265
+0,
+1&
+1*
+b1010 !
+0'
+1"
+#270
+0"
+#275
+0*
+b1011 !
+1'
+1"
+#280
+0"
+#285
+0.
+1%
+1,
+0&
+1*
+b1100 !
+0'
+1"
+#290
+0"
+#295
+0*
+b1101 !
+1'
+1"
+#300
+0"

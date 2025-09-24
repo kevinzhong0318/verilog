@@ -1,0 +1,13 @@
+**** module/scope: testbench_full_adder
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: testbench_full_adder.uut
+     Flip-Flops   : 0
+     Logic Gates  : 7
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 7
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted

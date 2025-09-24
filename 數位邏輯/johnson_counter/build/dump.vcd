@@ -1,0 +1,370 @@
+$date
+	Mon Jan 20 20:33:14 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 1 ! s7 $end
+$var wire 1 " s6 $end
+$var wire 1 # s5 $end
+$var wire 1 $ s4 $end
+$var wire 1 % s3 $end
+$var wire 1 & s2 $end
+$var wire 1 ' s1 $end
+$var wire 1 ( s0 $end
+$var reg 1 ) clear $end
+$var reg 1 * clk $end
+$scope module M0 $end
+$var wire 1 ) clear $end
+$var wire 1 * clk $end
+$var wire 1 ( s0 $end
+$var wire 1 ' s1 $end
+$var wire 1 & s2 $end
+$var wire 1 % s3 $end
+$var wire 1 $ s4 $end
+$var wire 1 # s5 $end
+$var wire 1 " s6 $end
+$var wire 1 ! s7 $end
+$var wire 1 + E $end
+$var wire 1 , C $end
+$var wire 1 - B $end
+$var wire 1 . A $end
+$scope module M0 $end
+$var wire 1 / D $end
+$var wire 1 ) clear $end
+$var wire 1 * clk $end
+$var reg 1 . Q $end
+$upscope $end
+$scope module M1 $end
+$var wire 1 . D $end
+$var wire 1 ) clear $end
+$var wire 1 * clk $end
+$var reg 1 - Q $end
+$upscope $end
+$scope module M2 $end
+$var wire 1 - D $end
+$var wire 1 ) clear $end
+$var wire 1 * clk $end
+$var reg 1 , Q $end
+$upscope $end
+$scope module M3 $end
+$var wire 1 , D $end
+$var wire 1 ) clear $end
+$var wire 1 * clk $end
+$var reg 1 + Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1/
+0.
+0-
+0,
+0+
+0*
+0)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+0(
+1'
+1.
+1)
+1*
+#10
+0*
+#15
+0'
+1&
+1-
+1*
+#20
+0*
+#25
+0&
+1%
+1,
+1*
+#30
+0*
+#35
+0%
+1$
+0/
+1+
+1*
+#40
+0*
+#45
+1#
+0$
+0.
+1*
+#50
+0*
+#55
+1"
+0#
+0-
+1*
+#60
+0*
+#65
+1!
+0"
+0,
+1*
+#70
+0*
+#75
+1(
+0!
+1/
+0+
+1*
+#80
+0*
+#85
+0(
+1'
+1.
+1*
+#90
+0*
+#95
+0'
+1&
+1-
+1*
+#100
+0*
+#105
+0&
+1%
+1,
+1*
+#110
+0*
+#115
+0%
+1$
+0/
+1+
+1*
+#120
+0*
+#125
+1#
+0$
+0.
+1*
+#130
+0*
+#135
+1"
+0#
+0-
+1*
+#140
+0*
+#145
+1!
+0"
+0,
+1*
+#150
+0*
+#155
+1(
+0!
+1/
+0+
+1*
+#160
+0*
+#165
+0(
+1'
+1.
+1*
+#170
+0*
+#175
+0'
+1&
+1-
+1*
+#180
+0*
+#185
+0&
+1%
+1,
+1*
+#190
+0*
+#195
+0%
+1$
+0/
+1+
+1*
+#200
+1(
+0$
+1/
+0+
+0,
+0-
+0.
+0*
+0)
+#205
+1*
+#210
+0*
+#215
+1*
+#220
+0*
+#225
+1*
+#230
+0*
+#235
+1*
+#240
+0*
+1)
+#245
+0(
+1'
+1.
+1*
+#250
+0*
+#255
+0'
+1&
+1-
+1*
+#260
+0*
+#265
+0&
+1%
+1,
+1*
+#270
+0*
+#275
+0%
+1$
+0/
+1+
+1*
+#280
+0*
+#285
+1#
+0$
+0.
+1*
+#290
+0*
+#295
+1"
+0#
+0-
+1*
+#300
+0*
+#305
+1!
+0"
+0,
+1*
+#310
+0*
+#315
+1(
+0!
+1/
+0+
+1*
+#320
+0*
+#325
+0(
+1'
+1.
+1*
+#330
+0*
+#335
+0'
+1&
+1-
+1*
+#340
+0*
+#345
+0&
+1%
+1,
+1*
+#350
+0*
+#355
+0%
+1$
+0/
+1+
+1*
+#360
+0*
+#365
+1#
+0$
+0.
+1*
+#370
+0*
+#375
+1"
+0#
+0-
+1*
+#380
+0*
+#385
+1!
+0"
+0,
+1*
+#390
+0*
+#395
+1(
+0!
+1/
+0+
+1*
+#400
+0*

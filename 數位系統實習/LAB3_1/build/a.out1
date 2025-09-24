@@ -1,0 +1,16 @@
+**** module/scope: LAB3_1
+     Flip-Flops   : 0
+     Logic Gates  : 2141
+     EQUALITY[32]: 32 units
+     MUX[2]: 31 slices
+     LPM[40]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 2141
+     EQUALITY[32]: 32 units
+     MUX[2]: 31 slices
+     LPM[40]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
