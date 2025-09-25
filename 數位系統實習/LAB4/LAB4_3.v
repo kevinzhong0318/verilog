@@ -3,6 +3,10 @@ input [3:0] D_in;
 input clk, rst, load;
 output reg [3:0] D_out;
 
+initial begin
+    D_out = 4'b0000;
+end // 設定初始值
+
 always @(posedge clk) begin
     if (!rst) begin
         D_out <= 4'b0000;
