@@ -1,0 +1,14 @@
+**** module/scope: LAB4_2
+     Flip-Flops   : 1
+     Logic Gates  : 529
+     EQUALITY[32]: 8 units
+     MUX[2]: 6 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** TOTALS
+     Flip-Flops   : 1
+     Logic Gates  : 529
+     EQUALITY[32]: 8 units
+     MUX[2]: 6 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
