@@ -9,7 +9,7 @@ end
 
 always @(posedge clk or negedge rst) begin
     if (rst==0)begin
-        fout=1'b0;
+        fout<=1'b0;
     end else if (out==1) begin
         fout<=~fout;
         out=4'b1010;
