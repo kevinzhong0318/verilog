@@ -1,0 +1,43 @@
+`include "lab1_1/lab1_1.v"
+module t_lab1_1 ();
+    reg x,y,clk;
+    wire z;
+    lab1_1 U_lab1_1 (
+        .x(x),
+        .y(y),
+        .clk(clk),
+        .z(z)
+    );
+    initial begin
+        clk=0;
+        forever #5 clk=~clk;
+    end
+    initial begin
+        //x y | z
+        //0 0 | 0
+        //0 1 | 1
+        //1 0 | 1
+        //1 1 | 0
+        x=0;y=0;
+        #10;
+        x=0;y=1;
+        #10;
+        x=1;y=0;
+        #10;
+        x=1;y=1;
+        #10;
+        x=0;y=0;
+        #10;
+        x=1;y=1;
+        #10;
+        x=1;y=0;
+        #10;
+        x=0;y=1;
+        #10;
+        $stop;
+    end
+    initial begin
+        #500 $finish;
+    end
+
+endmodule //t_lab1_1
