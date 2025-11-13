@@ -1,0 +1,16 @@
+**** module/scope: LAB7_3
+     Flip-Flops   : 0
+     Logic Gates  : 1920
+     ADDER[4]: 24 units
+     MAGNITUDE[32]: 24 units
+     MUX[2]: 96 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 1920
+     ADDER[4]: 24 units
+     MAGNITUDE[32]: 24 units
+     MUX[2]: 96 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted

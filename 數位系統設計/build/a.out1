@@ -1,0 +1,12 @@
+**** module/scope: LFSR
+     Flip-Flops   : 8
+     Logic Gates  : 19
+     MUX[2]: 8 slices
+     LOG[13]: 2 unaccounted
+     LOG[14]: 1 unaccounted
+**** TOTALS
+     Flip-Flops   : 8
+     Logic Gates  : 19
+     MUX[2]: 8 slices
+     LOG[13]: 2 unaccounted
+     LOG[14]: 1 unaccounted
