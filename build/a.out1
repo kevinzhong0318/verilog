@@ -1,16 +1,18 @@
-**** module/scope: LAB7_3
-     Flip-Flops   : 0
-     Logic Gates  : 1920
-     ADDER[4]: 24 units
-     MAGNITUDE[32]: 24 units
-     MUX[2]: 96 slices
+**** module/scope: OOXX
+     Flip-Flops   : 4
+     Logic Gates  : 2094
+     ADDER[4]: 1 units
+     EQUALITY[32]: 16 units
+     MUX[2]: 516 slices
+     LPM[30]: 32 unaccounted
      LOG[13]: 1 unaccounted
      LOG[14]: 1 unaccounted
 **** TOTALS
-     Flip-Flops   : 0
-     Logic Gates  : 1920
-     ADDER[4]: 24 units
-     MAGNITUDE[32]: 24 units
-     MUX[2]: 96 slices
+     Flip-Flops   : 4
+     Logic Gates  : 2094
+     ADDER[4]: 1 units
+     EQUALITY[32]: 16 units
+     MUX[2]: 516 slices
+     LPM[30]: 32 unaccounted
      LOG[13]: 1 unaccounted
      LOG[14]: 1 unaccounted
